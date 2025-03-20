@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+
+}
+p {
+    color: white;
+    text-align: center;
+    font: 100;
+    font-size: 40px;
+}
+
+input {
+    background-color: lime;
+}
